@@ -19,6 +19,8 @@ public class ConnectRCP {
 	
 	private final Logger logger = LoggerFactory.getLogger(this.getClass());
 	
+	private String tmpstr = "PULL 연습용";
+	
 	private ObjectUtils objUtils = new ObjectUtils();
 	
 	private String url = "http://211.237.50.150:7080/openapi";
