@@ -19,7 +19,7 @@ public class ConnectRCP {
 	
 	private final Logger logger = LoggerFactory.getLogger(this.getClass());
 	
-	private String tmpstr = "A PC에서 수정";
+	private String tmpstr = " A PC에서 수정 ";
 	
 	private ObjectUtils objUtils = new ObjectUtils();
 	
